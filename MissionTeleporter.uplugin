@@ -1,18 +1,20 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "8EDB0888465A1C2B00BF069394D1E708",
 	"FriendlyName": "MissionTeleporter",
-	"Description": "",
-	"Category": "Other",
+	"Description": "Add your summary here",
+	"Category": "UGC",
 	"CreatedBy": "",
 	"CreatedByURL": "",
 	"DocsURL": "",
-	"MarketplaceURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/mission-teleporter",
 	"SupportURL": "",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"ExplicitlyLoaded": true
+	"ExplicitlyLoaded": true,
+	"CfUgcId": 1827768,
+	"AutoCookingType": "All"
 }
